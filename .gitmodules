@@ -1,0 +1,6 @@
+[submodule "imdb-info-collector"]
+	path = imdb-info-collector
+	url = git@github.com:isitavi/imdb-info-collector.git
+[submodule "petGame"]
+	path = petGame
+	url = git@github.com:isitavi/petGame.git
